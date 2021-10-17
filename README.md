@@ -7,3 +7,4 @@ I am a Machile Learning Enthusiast. In order to keep up with the study, I plan t
 * [2021-10-12] [English-Spanish Translation: Transformer](https://www.kaggle.com/lonnieqin/english-spanish-translation-transformer)
 * [2021-10-13][English-Spanish Classification: Bidirectional-LSTM](https://www.kaggle.com/lonnieqin/english-spanish-classification-bidirectional-lstm)
 * [2021-10-15][IMDB Reviews Classification: Bidirectional-LSTM](https://www.kaggle.com/lonnieqin/imdb-reviews-classification-bidirectional-lstm)
+* [2021-10-17] [Data Analysis with Machine Learners](https://www.kaggle.com/lonnieqin/data-analysis-with-machine-learners?scriptVersionId=77337248)
