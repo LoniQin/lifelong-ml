@@ -10,3 +10,4 @@ I am a Machile Learning Enthusiast. In order to keep up with the study, I plan t
 * [2021-10-17] [Data Analysis with Machine Learners](https://www.kaggle.com/lonnieqin/data-analysis-with-machine-learners?scriptVersionId=77337248)
 * [2021-10-25][IMDB Reviews: Masked Language Modeling](https://www.kaggle.com/lonnieqin/imdb-reviews-masked-language-modeling)
 * [2021-10-26][English-Spanish Translation: FNet](https://www.kaggle.com/lonnieqin/english-spanish-translation-fnet)
+* [2021-10-27][English-Spanish Translation: Switch Transformer](https://www.kaggle.com/lonnieqin/english-spanish-translation-switch-transformer)
