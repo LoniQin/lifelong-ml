@@ -12,4 +12,4 @@ As a Machile Learning Enthusiast, to keep up with the Machine Learning study, I 
 * [2021-10-26][English-Spanish Translation: FNet](https://www.kaggle.com/lonnieqin/english-spanish-translation-fnet)
 * [2021-10-27][English-Spanish Translation: Switch Transformer](https://www.kaggle.com/lonnieqin/english-spanish-translation-switch-transformer)
 * [2021-11-2][TPS-11-21: Catboost](https://www.kaggle.com/lonnieqin/tps-11-2021-catboost)
-- [2021-11-3][TPS-11-21: DNN](https://www.kaggle.com/lonnieqin/tps-11-21-dnn)
+* [2021-11-3][TPS-11-21: DNN](https://www.kaggle.com/lonnieqin/tps-11-21-dnn)
