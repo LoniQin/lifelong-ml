@@ -14,3 +14,4 @@ As a Machile Learning Enthusiast, to keep up with the Machine Learning study, I 
 * [2021-11-02][TPS-11-21: Catboost](https://www.kaggle.com/lonnieqin/tps-11-2021-catboost)
 * [2021-11-03][TPS-11-21: DNN](https://www.kaggle.com/lonnieqin/tps-11-21-dnn)
 * [2021-11-07][MNIST Classification with autokeras](https://www.kaggle.com/lonnieqin/mnist-classification-with-autokeras)
+* [2021-11-10][Jigsaw Rate Severity of Toxic Comments with FNet](https://www.kaggle.com/lonnieqin/jigsaw-rate-severity-of-toxic-comments-with-fnet)
