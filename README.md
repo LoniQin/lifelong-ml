@@ -18,7 +18,8 @@ As a Machile Learning Enthusiast, to keep up with the Machine Learning study, I 
 * [2021-12-05][UMICH Sentiment Classification: [99.56% accuracy]](https://www.kaggle.com/lonnieqin/umich-sentiment-classification-99-56-accuracy?scriptVersionId=81576877)
 * [2021-12-11][Babi Tasks Question Answering with Keras](https://www.kaggle.com/lonnieqin/babi-tasks-question-answering-with-keras)
 # 2022
-* [2021-01-01][TPS-01-22 with Catboost](https://www.kaggle.com/lonnieqin/tps-01-22-with-catboost)
-* [2021-01-02][TPS-01-22 with AutoKeras](https://www.kaggle.com/lonnieqin/tps-01-22-with-autokeras)
-* [2021-01-05] [Job Salary Prediction with TensorFlow](https://www.kaggle.com/lonnieqin/job-salary-prediction-with-tensorflow)
-* [2021-01-09] [Sign Language MNIST Classification](https://www.kaggle.com/lonnieqin/sign-language-mnist-classification)
+* [2022-01-01][TPS-01-22 with Catboost](https://www.kaggle.com/lonnieqin/tps-01-22-with-catboost)
+* [2022-01-02][TPS-01-22 with AutoKeras](https://www.kaggle.com/lonnieqin/tps-01-22-with-autokeras)
+* [2022-01-05][Job Salary Prediction with TensorFlow](https://www.kaggle.com/lonnieqin/job-salary-prediction-with-tensorflow)
+* [2022-01-09][Sign Language MNIST Classification](https://www.kaggle.com/lonnieqin/sign-language-mnist-classification)
+* [2022-01-10][MNIST Classification: Pseudo Labeling](https://www.kaggle.com/lonnieqin/mnist-classification-pseudo-labeling)
