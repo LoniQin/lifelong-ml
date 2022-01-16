@@ -23,3 +23,4 @@ As a Machile Learning Enthusiast, to keep up with the Machine Learning study, I 
 * [2022-01-05] [Job Salary Prediction with TensorFlow](https://www.kaggle.com/lonnieqin/job-salary-prediction-with-tensorflow)
 * [2022-01-09] [Sign Language MNIST Classification](https://www.kaggle.com/lonnieqin/sign-language-mnist-classification)
 * [2022-01-10] [MNIST Classification: Pseudo Labeling](https://www.kaggle.com/lonnieqin/mnist-classification-pseudo-labeling)
+* [2022-01-16] [WiDS Datathon 2022 with Catboost](https://www.kaggle.com/lonnieqin/wids-datathon-2022-with-catboost)
