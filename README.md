@@ -24,3 +24,5 @@ As a Machile Learning Enthusiast, to keep up with the Machine Learning study, I 
 * [2022-01-09] [Sign Language MNIST Classification](https://www.kaggle.com/lonnieqin/sign-language-mnist-classification)
 * [2022-01-10] [MNIST Classification: Pseudo Labeling](https://www.kaggle.com/lonnieqin/mnist-classification-pseudo-labeling)
 * [2022-01-16] [WiDS Datathon 2022 with Catboost](https://www.kaggle.com/lonnieqin/wids-datathon-2022-with-catboost)
+* [2022-01-20] [Ubiquant Market Prediction with Ridge Regression](https://www.kaggle.com/lonnieqin/ubiquant-market-prediction-with-ridge-regression)
+* [2022-01-21] [Ubiquant Market Prediction with Catboost](https://www.kaggle.com/lonnieqin/ubiquant-market-prediction-with-catboost)
