@@ -28,3 +28,5 @@ As a Machile Learning Enthusiast, to keep up with the Machine Learning study, I 
 * [2022-01-21] [Ubiquant Market Prediction with Catboost](https://www.kaggle.com/lonnieqin/ubiquant-market-prediction-with-catboost)
 * [2022-01-23][Jena Climate Prediction with LSTM](https://www.kaggle.com/lonnieqin/jena-climate-prediction-with-lstm)
 * [2022-01-24] [Ubiquant Market Prediction with DNN](https://www.kaggle.com/lonnieqin/ubiquant-market-prediction-with-dnn)
+* [2022-01-29] [Ubiquant Market Prediction on TPU](https://www.kaggle.com/lonnieqin/ubiquant-market-prediction-on-tpu)
+* [2022-01-30] [Create TF-Record for UMP dataset](https://www.kaggle.com/lonnieqin/create-tf-record-for-ump-dataset)
