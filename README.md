@@ -33,3 +33,4 @@ As a Machile Learning Enthusiast, to keep up with the Machine Learning study, I 
 * [2022-02-20] [Recommendation System with Tensorflow Recommenders](https://www.kaggle.com/lonnieqin/recommendation-system-with-tensorflow-recommenders)
 * [2022-03-05][TPS-22-03 with TabTransformer](https://www.kaggle.com/lonnieqin/tps-22-03-with-tabtransformer)
 * [2022-04-03][Getting Started with sonnet](https://www.kaggle.com/code/lonnieqin/getting-started-with-sonnet)
+* [2022-04-09][MNIST CNN Recognizer with sonnet](https://www.kaggle.com/code/lonnieqin/mnist-cnn-recognizer-with-sonnet)
