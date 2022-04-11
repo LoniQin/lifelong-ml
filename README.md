@@ -35,3 +35,4 @@ As a Machile Learning Enthusiast, to keep up with the Machine Learning study, I 
 * [2022-04-03][Getting Started with sonnet](https://www.kaggle.com/code/lonnieqin/getting-started-with-sonnet)
 * [2022-04-06][Tokyo Stock Exchange Prediction with CatBoost](https://www.kaggle.com/code/lonnieqin/tokyo-stock-exchange-prediction-with-catboost)
 * [2022-04-09][MNIST CNN Recognizer with sonnet](https://www.kaggle.com/code/lonnieqin/mnist-cnn-recognizer-with-sonnet)
+* [2022-04-11][Note Classification with Graph Neural Networks](https://www.kaggle.com/lonnieqin/note-classification-with-graph-neural-networks)
