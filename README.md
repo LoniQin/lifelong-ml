@@ -37,3 +37,4 @@ As a Machile Learning Enthusiast, to keep up with the Machine Learning study, I 
 * [2022-04-09][MNIST CNN Recognizer with sonnet](https://www.kaggle.com/code/lonnieqin/mnist-cnn-recognizer-with-sonnet)
 * [2022-04-11][Note Classification with Graph Neural Networks](https://www.kaggle.com/lonnieqin/note-classification-with-graph-neural-networks)
 * [2022-04-26][U.S. Patent Phrase to Phrase Matching with TFHub](https://www.kaggle.com/code/lonnieqin/u-s-patent-phrase-to-phrase-matching-with-tfhub)
+* [2022-06-04][JPS-May-2022: Imputation with 55 LGBM Regressors](https://www.kaggle.com/code/lonnieqin/jps-may-2022-imputation-with-55-lgbm-regressors)
