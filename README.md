@@ -39,3 +39,4 @@ As a Machile Learning Enthusiast, to keep up with the Machine Learning study, I 
 * [2022-04-11][Note Classification with Graph Neural Networks](https://www.kaggle.com/lonnieqin/note-classification-with-graph-neural-networks)
 * [2022-04-26][U.S. Patent Phrase to Phrase Matching with TFHub](https://www.kaggle.com/code/lonnieqin/u-s-patent-phrase-to-phrase-matching-with-tfhub)
 * [2022-06-03][TPS-June-2022: Imputation with 55 LGBM Regressors](https://www.kaggle.com/code/lonnieqin/tps-june-2022-imputation-with-55-lgbm-regressors)
+* [2022-11-12](Feedback Prize - English Language Learning with Conv1D](https://www.kaggle.com/code/lonnieqin/multi-label-regression-with-conv1d)
