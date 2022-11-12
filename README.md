@@ -32,6 +32,7 @@ As a Machile Learning Enthusiast, to keep up with the Machine Learning study, I 
 * [2022-01-30] [Create TF-Record for UMP dataset](https://www.kaggle.com/lonnieqin/create-tf-record-for-ump-dataset)
 * [2022-02-20] [Recommendation System with Tensorflow Recommenders](https://www.kaggle.com/lonnieqin/recommendation-system-with-tensorflow-recommenders)
 * [2022-03-05][TPS-22-03 with TabTransformer](https://www.kaggle.com/lonnieqin/tps-22-03-with-tabtransformer)
+* [](https://www.kaggle.com/code/lonnieqin/multi-label-regression-with-conv1d)
 * [2022-04-03][Getting Started with sonnet](https://www.kaggle.com/code/lonnieqin/getting-started-with-sonnet)
 * [2022-04-06][Tokyo Stock Exchange Prediction with CatBoost](https://www.kaggle.com/code/lonnieqin/tokyo-stock-exchange-prediction-with-catboost)
 * [2022-04-09][MNIST CNN Recognizer with sonnet](https://www.kaggle.com/code/lonnieqin/mnist-cnn-recognizer-with-sonnet)
