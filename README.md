@@ -40,3 +40,5 @@ As a Machile Learning Enthusiast, to keep up with the Machine Learning study, I 
 * [2022-06-03][TPS-June-2022: Imputation with 55 LGBM Regressors](https://www.kaggle.com/code/lonnieqin/tps-june-2022-imputation-with-55-lgbm-regressors)
 * [2022-11-12][Feedback Prize - English Language Learning with Conv1D](https://www.kaggle.com/code/lonnieqin/multi-label-regression-with-conv1d)
 * [2022-11-20][Quora Text Classification with SKLearn](https://www.kaggle.com/code/lonnieqin/quora-text-classification-with-sklearn)
+* [2022-11-21][Feedback Prize - English Language Learning with LGBM](https://www.kaggle.com/code/lonnieqin/fb3-with-lgbm)
+* [2022-11-21][Feedback Prize - English Language Learning with Ridge](https://www.kaggle.com/code/lonnieqin/fb3-with-ridge)
