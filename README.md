@@ -43,3 +43,5 @@ As a Machile Learning Enthusiast, to keep up with the Machine Learning study, I 
 * [2022-11-21][Feedback Prize - English Language Learning with LGBM](https://www.kaggle.com/code/lonnieqin/fb3-with-lgbm)
 * [2022-11-21][Feedback Prize - English Language Learning with Ridge](https://www.kaggle.com/code/lonnieqin/fb3-with-ridge)
 * [2022-12-13][Natural Language Inference with BERT](https://www.kaggle.com/code/lonnieqin/natural-language-inference-with-bert)
+* [2022-12-14][Natural Language Inference with DistilBert](https://www.kaggle.com/code/lonnieqin/natural-language-inference-with-distilbert)
+* [2022-12-15][Text Classification with DistilBert](https://www.kaggle.com/code/lonnieqin/text-classification-with-distilbert)
