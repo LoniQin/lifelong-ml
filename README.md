@@ -49,3 +49,4 @@ As a Machile Learning Enthusiast, to keep up with the Machine Learning study, I 
 ## 2023
 * [2022-01-17][Stroke Prediction with Catboost](https://www.kaggle.com/code/lonnieqin/stroke-prediction-with-catboost)
 * [2022-01-18][Playground S3E3 with Logistic Regression](https://www.kaggle.com/code/lonnieqin/playground-s3e3-with-logistic-regression)
+* [2022-01-23][Employee Attrition Prediction with DNN](https://www.kaggle.com/code/lonnieqin/employee-attrition-prediction-with-dnn)
