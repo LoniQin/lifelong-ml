@@ -50,3 +50,4 @@ As a Machile Learning Enthusiast, to keep up with the Machine Learning study, I 
 * [2022-01-17][Stroke Prediction with Catboost](https://www.kaggle.com/code/lonnieqin/stroke-prediction-with-catboost)
 * [2022-01-18][Playground S3E3 with Logistic Regression](https://www.kaggle.com/code/lonnieqin/playground-s3e3-with-logistic-regression)
 * [2022-01-23][Employee Attrition Prediction with DNN](https://www.kaggle.com/code/lonnieqin/employee-attrition-prediction-with-dnn)
+* [2022-02-25][Isolated Sign Language Recognition with DNN](https://www.kaggle.com/code/lonnieqin/isolated-sign-language-recognition-with-dnn)
