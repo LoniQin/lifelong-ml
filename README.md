@@ -54,6 +54,5 @@ As a Machile Learning Enthusiast, to keep up with the Machine Learning study, I 
 * [2023-02-25][Isolated Sign Language Recognition with DNN](https://www.kaggle.com/code/lonnieqin/isolated-sign-language-recognition-with-dnn)
 * [2023-03-02][Isolated Sign Language Recognition with ConvLSTM1D](https://www.kaggle.com/code/lonnieqin/isolated-sign-language-recognition-with-convlstm1d)
 * [2023-03-03][Isolated Sign Language Recognition: Create TFRecord](https://www.kaggle.com/code/lonnieqin/islr-create-tfrecord) 
-* [2023-03-15][Isolated Sign Language Recognition with ConvLSTM1D](https://www.kaggle.com/code/lonnieqin/isolated-sign-language-recognition-with-convlstm1d)
-* [2023-03-17][Microbusiness Density Forecasting with LSTM](https://www.kaggle.com/code/lonnieqin/microbusiness-density-forecasting-with-lstm)
+* [2023-03-15][Microbusiness Density Forecasting with LSTM](https://www.kaggle.com/code/lonnieqin/microbusiness-density-forecasting-with-lstm)
 * [2023-03-22][Bird Species Classification with EfficientNet](https://www.kaggle.com/code/lonnieqin/bird-species-classification-with-efficientnet)
