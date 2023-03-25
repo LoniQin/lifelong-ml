@@ -57,3 +57,4 @@ As a Machile Learning Enthusiast, to keep up with the Machine Learning study, I 
 * [2023-03-15][Microbusiness Density Forecasting with LSTM](https://www.kaggle.com/code/lonnieqin/microbusiness-density-forecasting-with-lstm)
 * [2023-03-22][Bird Species Classification with EfficientNet](https://www.kaggle.com/code/lonnieqin/bird-species-classification-with-efficientnet)
 * [2023-03-23][Video Classification](https://www.kaggle.com/code/lonnieqin/video-classification)
+* [2023-03-25][Vesuvius Challenge GIF Animation](https://www.kaggle.com/code/lonnieqin/vesuvius-challenge-gif-animation/)
