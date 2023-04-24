@@ -58,3 +58,4 @@ As a Machile Learning Enthusiast, to keep up with the Machine Learning study, I 
 * [2023-03-22][Bird Species Classification with EfficientNet](https://www.kaggle.com/code/lonnieqin/bird-species-classification-with-efficientnet)
 * [2023-03-23][Video Classification](https://www.kaggle.com/code/lonnieqin/video-classification)
 * [2023-03-25][Vesuvius Challenge GIF Animation](https://www.kaggle.com/code/lonnieqin/vesuvius-challenge-gif-animation/)
+* [2023-04-24][Knowledge Distillation](https://www.kaggle.com/code/lonnieqin/knowledge-distillation)
