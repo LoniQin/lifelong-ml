@@ -61,3 +61,4 @@ As a Machile Learning Enthusiast, to keep up with the Machine Learning study, I 
 * [2023-04-24][Knowledge Distillation](https://www.kaggle.com/code/lonnieqin/knowledge-distillation)
 * [2023-05-08][Toxicity Classification with KerasNLP](https://www.kaggle.com/code/lonnieqin/toxicity-classification-with-kerasnlp)
 * [2023-05-14][Running Alpaca on Google Colab](https://github.com/LoniQin/lifelong-ml/blob/main/Running_Alpaca_on_Google_Colab.ipynb)
+* [2023-05-21](English-Spanish Translation with KerasNLP)[https://www.kaggle.com/code/lonnieqin/english-spanish-translation-with-kerasnlp)
