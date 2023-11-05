@@ -67,3 +67,4 @@ As a Machile Learning Enthusiast, to keep up with the Machine Learning study, I 
 * [2023-10-27][Software Defects Prediction with LGBM](https://www.kaggle.com/code/lonnieqin/software-defects-prediction-with-lgbm)
 * [2023-10-28][Smoker Status prediction with LGBM and Optuna](https://www.kaggle.com/code/lonnieqin/smoker-status-prediction-with-lgbm-and-optuna)
 * [2023-11-01][Generated Text Detector with KerasNLP](https://www.kaggle.com/code/lonnieqin/generated-text-detector-with-kerasnlp)
+* [2023-11-06][S3E24: CNN+DNN](https://www.kaggle.com/code/lonnieqin/s3e24-cnn-dnn)
