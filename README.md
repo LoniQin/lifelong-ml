@@ -70,3 +70,4 @@ As a Machile Learning Enthusiast, to keep up with the Machine Learning study, I 
 * [2023-11-06][S3E24: CNN+DNN](https://www.kaggle.com/code/lonnieqin/s3e24-cnn-dnn)
 * [2023-11-11][AI Generated Text Detection with DNN and TFIDF](https://www.kaggle.com/code/lonnieqin/ai-generated-text-detection-with-dnn-and-tfidf)
 * [2023-11-25][AI Generated Text Detection with MLPClassifier](https://www.kaggle.com/code/lonnieqin/ai-generated-text-detection-with-mlpclassifier)
+* [2023-12-17][AI Generated Text Detection with DistilBert](https://www.kaggle.com/code/lonnieqin/ai-generated-text-detection-with-distilbert)
