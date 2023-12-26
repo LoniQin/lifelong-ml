@@ -73,4 +73,4 @@ As a Machile Learning Enthusiast, to keep up with the Machine Learning study, I 
 * [2023-12-17][AI Generated Text Detection with DistilBert](https://www.kaggle.com/code/lonnieqin/ai-generated-text-detection-with-distilbert)
 * [2023-12-22][Fake News Detection with LSTM[99.8% accuracy]](https://www.kaggle.com/code/lonnieqin/fake-news-detection-with-lstm-99-8-accuracy)
 * [2023-12-23][LLM Text Detection with LSTM](https://www.kaggle.com/code/lonnieqin/llm-text-detection-with-lstm)
-* [2023-12-27][S3326 with FLAML](https://www.kaggle.com/code/lonnieqin/s3e26-with-flaml)
+* [2023-12-27][S3E26 with FLAML](https://www.kaggle.com/code/lonnieqin/s3e26-with-flaml)
