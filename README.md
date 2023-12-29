@@ -1,5 +1,5 @@
 # Lifelong Machine Learning
-As a Machile Learning Enthusiast, to keep up with the Machine Learning study, I plan to create a meaningful new notebook that learns new models, concepts, methodologies regularly.
+As a Machile Learning Enthusiast, to keep up with the Machine Learning study, I plan to create a meaningful new notebook that learns new models, concepts, methodologies whenever possible.
 # 2021
 * [2021-10-09] [Fashion MNIST Classification: Vision Transformer](https://www.kaggle.com/lonnieqin/fashion-mnist-classification-vision-transformer)
 * [2021-10-10] [Fashion MNIST: Getting Started with Trax](https://www.kaggle.com/lonnieqin/fashion-mnist-getting-started-with-trax)
