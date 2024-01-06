@@ -75,3 +75,5 @@ As a Machile Learning Enthusiast, to keep up with the Machine Learning study, I 
 * [2023-12-23][LLM Text Detection with LSTM](https://www.kaggle.com/code/lonnieqin/llm-text-detection-with-lstm)
 * [2023-12-27][S3E26 with FLAML](https://www.kaggle.com/code/lonnieqin/s3e26-with-flaml)
 * [2023-12-30][Cirrhosis Outcomes Prediction with AutoKeras](https://www.kaggle.com/code/lonnieqin/cirrhosis-outcomes-prediction-with-autokeras)
+## 2024
+* [2024-1-6][Getting started with PyTorch in 30 minutes](https://colab.research.google.com/drive/1h0xVBEBonwse7KNON10vkqIODHiZTvgk?usp=sharing)
