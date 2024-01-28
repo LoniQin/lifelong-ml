@@ -78,3 +78,4 @@ As a Machile Learning Enthusiast, to keep up with the Machine Learning study, I 
 ## 2024
 * [2024-01-06][Getting started with PyTorch in 30 minutes](https://colab.research.google.com/drive/1h0xVBEBonwse7KNON10vkqIODHiZTvgk?usp=sharing)
 * [2024-01-08][Life Expectancy Prediction](https://www.kaggle.com/code/lonnieqin/life-expectancy-prediction)
+* [2024-01-28][Getting Started with Phi2](https://www.kaggle.com/code/lonnieqin/getting-started-with-phi2)
