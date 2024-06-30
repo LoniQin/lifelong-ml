@@ -83,3 +83,4 @@ As a Machile Learning Enthusiast, to keep up with the Machine Learning study, I 
 * [2024-06-28][Chatbo with Qwen2_and Gradio](Chatbot_with_Qwen2_and_Gradio.ipynb)
 * [2024-06-29][Create an Agent with Gemma 2 from Scratch](https://www.kaggle.com/code/lonnieqin/create-an-agent-with-gemma-2-from-scratch)
 * [2024-06-30][Chatbot with Qwen2 and MESOP](Chatbot_with_Qwen2_and_MESOP.ipynb)
+* [2024-07-01][Image Captioning with PaliGemma](Image_Captioning_with_PaliGemma.ipynb)
