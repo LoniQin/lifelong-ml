@@ -85,3 +85,4 @@ As a Machile Learning Enthusiast, to keep up with the Machine Learning study, I 
 * [2024-06-30][Chatbot with Qwen2 and MESOP](Chatbot_with_Qwen2_and_MESOP.ipynb)
 * [2024-07-01][Image Captioning with PaliGemma](Image_Captioning_with_PaliGemma.ipynb)
 * [2024-07-30][Getting Started with phi3](https://www.kaggle.com/code/lonnieqin/getting-started-with-phi3)
+* [2024-08-23][Building RAG application with HayStack, GEMINI and Cohere](Building_RAG_application_with_HayStack%2C_GEMINI_and_Cohere.ipynb)
