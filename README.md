@@ -1,5 +1,6 @@
 # Lifelong Machine Learning
-As a Machile Learning Enthusiast, to keep up with the Machine Learning study, I plan to create a meaningful new notebook that learns new models, concepts, methodologies whenever possible.
+As a passionate Machine Learning enthusiast, I continuously explore new models, concepts, and methodologies in the ever-evolving field of machine learning. This repository serves as a living collection of Jupyter Notebooks, where I regularly update and add meaningful new content to reflect my ongoing learning journey. Each notebook is crafted to introduce and experiment with fresh ideas, making this project a dynamic and comprehensive resource for lifelong learners in machine learning. Whether you’re diving into new theories or seeking practical implementations, you’ll find valuable insights and hands-on examples that evolve along with the field.
+
 # 2021
 * [2021-10-09] [Fashion MNIST Classification: Vision Transformer](https://www.kaggle.com/lonnieqin/fashion-mnist-classification-vision-transformer)
 * [2021-10-10] [Fashion MNIST: Getting Started with Trax](https://www.kaggle.com/lonnieqin/fashion-mnist-getting-started-with-trax)
