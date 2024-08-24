@@ -87,3 +87,4 @@ As a Machile Learning Enthusiast, to keep up with the Machine Learning study, I 
 * [2024-07-30][Getting Started with phi3](https://www.kaggle.com/code/lonnieqin/getting-started-with-phi3)
 * [2024-08-22][Building RAG application with HayStack, GEMINI and Cohere](Building_RAG_application_with_HayStack%2C_GEMINI_and_Cohere.ipynb)
 * [2024-08-23][News Summarizer with HayStack, GEMINI and Cohere](News_Summarizer_with_HayStack%2C_GEMINI_and_Cohere.ipynb)
+* [2024-08-24][Entity Extraction Pipeline using HayStack and DeepSeek Chat](Entity_Extraction_Pipeline_using_HayStack_and_DeepSeek_Chat.ipynb)
