@@ -1,5 +1,6 @@
 # Lifelong Machine Learning
-As a Machile Learning Enthusiast, to keep up with the Machine Learning study, I plan to create a meaningful new notebook that learns new models, concepts, methodologies whenever possible.
+As a passionate Machine Learning enthusiast, I continuously explore new models, concepts, and methodologies in the ever-evolving field of machine learning. This repository serves as a living collection of Jupyter Notebooks, where I regularly update and add meaningful new content to reflect my ongoing learning journey. Each notebook is crafted to introduce and experiment with fresh ideas, making this project a dynamic and comprehensive resource for lifelong learners in machine learning. Whether you’re diving into new theories or seeking practical implementations, you’ll find valuable insights and hands-on examples that evolve along with the field.
+
 # 2021
 * [2021-10-09] [Fashion MNIST Classification: Vision Transformer](https://www.kaggle.com/lonnieqin/fashion-mnist-classification-vision-transformer)
 * [2021-10-10] [Fashion MNIST: Getting Started with Trax](https://www.kaggle.com/lonnieqin/fashion-mnist-getting-started-with-trax)
@@ -87,3 +88,4 @@ As a Machile Learning Enthusiast, to keep up with the Machine Learning study, I 
 * [2024-07-30][Getting Started with phi3](https://www.kaggle.com/code/lonnieqin/getting-started-with-phi3)
 * [2024-08-22][Building RAG application with HayStack, GEMINI and Cohere](Building_RAG_application_with_HayStack%2C_GEMINI_and_Cohere.ipynb)
 * [2024-08-23][News Summarizer with HayStack, GEMINI and Cohere](News_Summarizer_with_HayStack%2C_GEMINI_and_Cohere.ipynb)
+* [2024-08-24][hEntity Extraction Pipeline using HayStack and DeepSeek Chat.ipynb](https://github.com/LoniQin/lifelong-ml/blob/main/Entity_Validator_using_HayStack_and_DeepSeek_Chat.ipynb)
