@@ -4,6 +4,7 @@ As a passionate Machine Learning enthusiast, I continuously explore new models, 
 ## 2024
 * [2024-10-17][Implementing Multimodal LLAMA 3.2 with Together AI](https://www.kaggle.com/code/lonnieqin/implementing-multimodal-llama-3-2-with-together-ai)
 * [2024-10-09][Loan Approval Prediction with TabTransformer](https://www.kaggle.com/code/lonnieqin/loan-approval-prediction-with-tabtransformer)
+* [2024-10-08][AG-News Classification with Transformer](https://www.kaggle.com/code/lonnieqin/ag-news-classification-with-transformer)
 * [2024-10-07][Loan Approval Prediction with PyTorch](https://www.kaggle.com/code/lonnieqin/loan-approval-prediction-with-pytorch)
 * [2024-10-06][Transformer-based Text Classifier from Scratch](https://www.kaggle.com/code/lonnieqin/transformer-based-text-classifier-from-scratch)
 * [2024-08-24][Entity Extraction Pipeline using HayStack and DeepSeek Chat](Entity_Extraction_Pipeline_using_HayStack_and_DeepSeek_Chat.ipynb)
