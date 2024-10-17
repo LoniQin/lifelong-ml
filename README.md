@@ -2,6 +2,7 @@
 As a passionate Machine Learning enthusiast, I continuously explore new models, concepts, and methodologies in the ever-evolving field of machine learning. This repository serves as a living collection of Jupyter Notebooks, where I regularly update and add meaningful new content to reflect my ongoing learning journey. Each notebook is crafted to introduce and experiment with fresh ideas, making this project a dynamic and comprehensive resource for lifelong learners in machine learning. Whether you’re diving into new theories or seeking practical implementations, you’ll find valuable insights and hands-on examples that evolve along with the field.
 
 ## 2024
+* [2024-10-17][Implementing Multimodal LLAMA 3.2 with Together AI](https://www.kaggle.com/code/lonnieqin/implementing-multimodal-llama-3-2-with-together-ai)
 * [2024-10-09][Loan Approval Prediction with TabTransformer](https://www.kaggle.com/code/lonnieqin/loan-approval-prediction-with-tabtransformer)
 * [2024-10-07][Loan Approval Prediction with PyTorch](https://www.kaggle.com/code/lonnieqin/loan-approval-prediction-with-pytorch)
 * [2024-10-06][Transformer-based Text Classifier from Scratch](https://www.kaggle.com/code/lonnieqin/transformer-based-text-classifier-from-scratch)
