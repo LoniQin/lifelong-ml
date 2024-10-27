@@ -3,6 +3,7 @@ As a passionate Machine Learning enthusiast, I continuously explore new models, 
 
 ## 2024
 * [2024-10-27][Fine-Tuning GPT-2 with PPO Reinforcement Learning](https://www.kaggle.com/code/lonnieqin/fine-tuning-gpt-2-with-ppo-reinforcement-learning)
+* [2024-10-20][Reward Modeling](https://www.kaggle.com/code/lonnieqin/reward-modeling)
 * [2024-10-19][Instruction Tuning with LLM](https://www.kaggle.com/code/lonnieqin/instruction-tuning-with-llm)
 * [2024-10-17][Implementing Multimodal LLAMA 3.2 with Together AI](https://www.kaggle.com/code/lonnieqin/implementing-multimodal-llama-3-2-with-together-ai)
 * [2024-10-09][Loan Approval Prediction with TabTransformer](https://www.kaggle.com/code/lonnieqin/loan-approval-prediction-with-tabtransformer)
