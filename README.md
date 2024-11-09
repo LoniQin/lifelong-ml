@@ -2,6 +2,7 @@
 As a passionate Machine Learning enthusiast, I continuously explore new models, concepts, and methodologies in the ever-evolving field of machine learning. This repository serves as a living collection of Jupyter Notebooks, where I regularly update and add meaningful new content to reflect my ongoing learning journey. Each notebook is crafted to introduce and experiment with fresh ideas, making this project a dynamic and comprehensive resource for lifelong learners in machine learning. Whether you’re diving into new theories or seeking practical implementations, you’ll find valuable insights and hands-on examples that evolve along with the field.
 
 ## 2024
+* [2024-11-08][Jane Street Real-Time Market Data Forecasting with PyTorch](https://www.kaggle.com/code/lonnieqin/jane-street-rmf-with-pytorch)
 * [2024-11-07][LLM Classification Finetuning with CNN](https://www.kaggle.com/code/lonnieqin/llm-classification-finetuning-with-cnn)
 * [2024-11-05][Jane Street Real-Time Market Data Forecasting with TensorFlow](https://www.kaggle.com/code/lonnieqin/jane-street-rmf-with-tensorflow)
 * [2024-10-27][Fine-Tuning GPT-2 with PPO Reinforcement Learning](https://www.kaggle.com/code/lonnieqin/fine-tuning-gpt-2-with-ppo-reinforcement-learning)
