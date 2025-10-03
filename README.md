@@ -4,6 +4,7 @@ As a passionate Machine Learning enthusiast, I continuously explore new models, 
 * [2025-10-03][LLMs with Qwen3-4B-Instruct-2507](https://www.kaggle.com/code/lonnieqin/llms-with-qwen3-4b-instruct-2507)
 * [2025-10-02][Road Accident Risk Prediction with PyTorch Hybrid CNN-DNN Model](https://www.kaggle.com/code/lonnieqin/s5e10-with-pytorch-hybrid-cnn-dnn-model)
 * [2025-10-01][Road Accident Risk Prediction with CNN+DNN](https://www.kaggle.com/code/lonnieqin/s5e10-cnn-dnn)
+* [2025-09-30][Introduction to Qwen3-4B-Instruct Model Exploration](https://www.kaggle.com/code/lonnieqin/qwen3-4b-instruct-2507)
 
 ## 2024
 * [2024-11-15][Jane Street RMF: TensorFlow Custom Training Loop](https://www.kaggle.com/code/lonnieqin/jane-street-rmf-tensorflow-custom-training-loop)
