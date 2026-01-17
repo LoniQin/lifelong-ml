@@ -1,5 +1,9 @@
 # Lifelong Machine Learning
 As a passionate Machine Learning enthusiast, I continuously explore new models, concepts, and methodologies in the ever-evolving field of machine learning. This repository serves as a living collection of Jupyter Notebooks, where I regularly update and add meaningful new content to reflect my ongoing learning journey. Each notebook is crafted to introduce and experiment with fresh ideas, making this project a dynamic and comprehensive resource for lifelong learners in machine learning. Whether you’re diving into new theories or seeking practical implementations, you’ll find valuable insights and hands-on examples that evolve along with the field.
+## 2026
+* [2026-01-18][MITSUI&CO. Commodity Prediction: 15th place)(https://www.kaggle.com/code/lonnieqin/mitsui-co-commodity-prediction-15th-place)
+* [2026-01-18][MITSUI Commodity Prediction with DNN](https://www.kaggle.com/code/lonnieqin/mitsui-commodity-prediction-with-dnn)
+
 ## 2025
 * [2025-10-30][IMAGINE-decoding-challenge with EfficientNet](https://www.kaggle.com/code/lonnieqin/imagine-decoding-challenge-with-efficientnet-v2)
 * [2025-10-03][LLMs with Qwen3-4B-Instruct-2507](https://www.kaggle.com/code/lonnieqin/llms-with-qwen3-4b-instruct-2507)
