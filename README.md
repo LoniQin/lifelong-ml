@@ -5,6 +5,7 @@ As a passionate Machine Learning enthusiast, I continuously explore new models, 
 * [2026-01-18][MITSUI Commodity Prediction with DNN](https://www.kaggle.com/code/lonnieqin/mitsui-commodity-prediction-with-dnn)
 
 ## 2025
+* [2025-11-18][Getting Started with Lightning](https://www.kaggle.com/code/lonnieqin/getting-started-with-lightning)
 * [2025-10-30][IMAGINE-decoding-challenge with EfficientNet](https://www.kaggle.com/code/lonnieqin/imagine-decoding-challenge-with-efficientnet-v2)
 * [2025-10-03][LLMs with Qwen3-4B-Instruct-2507](https://www.kaggle.com/code/lonnieqin/llms-with-qwen3-4b-instruct-2507)
 * [2025-10-02][Road Accident Risk Prediction with PyTorch Hybrid CNN-DNN Model](https://www.kaggle.com/code/lonnieqin/s5e10-with-pytorch-hybrid-cnn-dnn-model)
